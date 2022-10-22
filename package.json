@@ -9,12 +9,8 @@
     },
     "version" : "0.1.1",
     "dependencies": {
-        "gea-sdk": "git+https://github.com/GEMakers/gea-sdk.git",
-        "gea-adapter-usb": "git+https://github.com/GEMakers/gea-adapter-usb.git",
-        "gea-plugin-range": "git+https://github.com/GEMakers/gea-plugin-range.git",
-        "gea-plugin-dishwasher": "git+https://github.com/GEMakers/gea-plugin-dishwasher.git",
-        "gea-plugin-refrigerator": "git+https://github.com/GEMakers/gea-plugin-refrigerator.git",
-        "gea-plugin-laundry": "git+https://github.com/GEMakers/gea-plugin-laundry.git",
-        "gea-plugin-water-heater": "git+https://github.com/GEMakers/gea-plugin-water-heater.git"
+        "gea-sdk": "git+https://github.com/Hixie/gea-sdk.git",
+        "gea-adapter-usb": "git+https://github.com/Hixie/gea-adapter-usb.git",
+        "gea-plugin-dishwasher": "git+https://github.com/Hixie/gea-plugin-dishwasher.git",
     }
 }
