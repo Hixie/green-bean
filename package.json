@@ -11,6 +11,6 @@
     "dependencies": {
         "gea-sdk": "git+https://github.com/Hixie/gea-sdk.git",
         "gea-adapter-usb": "git+https://github.com/Hixie/gea-adapter-usb.git",
-        "gea-plugin-dishwasher": "git+https://github.com/Hixie/gea-plugin-dishwasher.git",
+        "gea-plugin-dishwasher": "git+https://github.com/Hixie/gea-plugin-dishwasher.git"
     }
 }
